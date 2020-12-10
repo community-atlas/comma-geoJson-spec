@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dance Class",
+                "type": "Class",
+                "start_date": "",
+                "end_date": "",
+                "description": "A regular dance class at the community centre",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zumba_%288158431916%29.jpg/220px-Zumba_%288158431916%29.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on at our centre?",
+                "links": [
+                    {
+                        "url": "https://en.wikipedia.org/wiki/Zumba",
+                        "title": "Wikipedia page",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "atlas#001"
+                ],
+                "created_date": "2020-07-14T03:03:42.860-07:00",
+                "updated_date": "2020-11-11T09:08:14.944-08:00",
+                "image_credit": ""
+            },
+            "id": "atlas#100"
+        }     
+    ],
+    "features": [        
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Community Centre",
+                "type": "Place",
+                "start_date": "1969-12-31T15:00:00.000-08:00",
+                "end_date": "",
+            "description": "The Community Centre is committed to working in partnership with local people by providing a hub of activities where everyone can feel welcome and safe to come together, build friendships, learn new skills and reduce feelings of isolation. Originally built around 1890, the place served as an electricity generating station for the North London tram network. Abandoned in the course of the XXst century, it was converted into a community centre, named the Mayville Community Centre back then, by residents of the Mayville Estate in the 1970s. In 2004, Mildmay Community Partnership took over the responsibility and management of the centre. Closed for a few years for renovation, the centre re-opened in 2011, as the first Passive House (an energy-efficient building) of the UK. Today, it hosts many charities and events organized for and with local residents. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Limehouse_Town_Hall_-_geograph.org.uk_-_788445.jpg",
+                "category": "Venues",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "youths",
+                    "architecture",
+                    "office",
+                    "workspace",
+                    "commons",
+                    "Social inclusion",
+                    "gardening",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "charity"
+                ],
+                "category-description": "Spaces to hire or use in the neighbourhood",
+                "links": [
+                    {
+                        "url": "http://limehousetownhall.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "atlas#100"                    
+                ],
+                "created_date": "2020-07-07T08:53:55.274-07:00",
+                "updated_date": "2020-09-01T01:47:13.027-07:00",                
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0314,
+                    51.5121
+                ]
+            },
+            "id": "atlas#001"
+        }        
+    ],
+    "properties": {
+        "title": "Community Map",
+        "url": "https://playground.community-atlas.net",
+        "id": "atlas",
+        "description": "An example atlas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/OrteliusWorldMap1570.jpg/640px-OrteliusWorldMap1570.jpg",
+        "published": "2020-11-12T07:37:00.214Z",
+        "links": [
+            {
+                "title": "The Comensi project",
+                "url": "http://community-atlas.net",
+                "description": "The Comensi Project homepage",
+                "lang": "en",
+                "type": "homepage"
+            }
+        ],
+        "version": 94,
+        "taxonomy": [
+            {
+                "category": "Activities and events",
+                "description": "What’s on in Mildmay and Newington Green?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 3
+            },            
+            {
+                "category": "Venues",
+                "description": "Spaces to hire or use in the neighbourhood",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 1
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "from": "atlas#001",
+            "to": "atlas#100"
+        },
+        {
+            "from": "atlas#100",
+            "to": "atlas#001"
+        }
+    ]
+}

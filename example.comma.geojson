@@ -1,0 +1,1962 @@
+{
+    "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Zumba",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Reggie teaches zumba at the Mildmay Community Centre. At the moment, Reggie and Marie are teaching online.",
+                "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/20604572_668115390060909_1377041303197506613_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=zywHm5ceIxIAX_AduGn&_nc_ht=scontent-mad1-1.xx&oh=315e9c3dd5822ed126b591b1984e5113&oe=5FC6BFB0",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/yaybazumba/",
+                        "title": "Facebook page",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mildmay_community_centre#83"
+                ],
+                "created_date": "2020-07-14T03:03:42.860-07:00",
+                "updated_date": "2020-11-11T09:08:14.944-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/zumba#116"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Nimble Western Line Dancers",
+                "type": "History",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-4.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:03:28.070-07:00",
+                "updated_date": "2020-11-04T00:56:10.760-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/nimble_western_line_dancers#115"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Pensioners Association",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-7.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:03:01.036-07:00",
+                "updated_date": "2020-11-04T00:54:42.591-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/mildmay_pensioners_association#114"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Golden Oldies Senior Citizens and Disabled Group",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "https://www.islingtongazette.co.uk/polopoly_fs/1.865513.1302775912!/image/1901215261.jpg_gen/derivatives/landscape_630/1901215261.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T02:51:59.655-07:00",
+                "updated_date": "2020-11-04T00:53:51.953-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/golden_oldies_senior_citizens_and_disabled_group#113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Checkers Bingo",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Group of Bingo players at the Mildmay Community Centre. ",
+                "image": "",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T02:39:16.600-07:00",
+                "updated_date": "2020-09-01T01:52:11.168-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/checkers_bingo#112"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Nisa Local",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Nisa Local is a funder of the Mildmay Community Centre, since its rehabilitation in 2006. It is part of the stakeholder network in the Mildmay area. ",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Nisa_logo.svg/1200px-Nisa_logo.svg.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-13T08:41:09.369-07:00",
+                "updated_date": "2020-09-01T01:51:37.172-07:00",
+                "weight": 0,
+                "image_credit": "Wikimedia"
+            },
+            "id": "ca/nisa_local#107"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Social Investment Business",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "The Social Investment Business is an investment company which invests in a wide variety of organizations across the UK. The Social Investment Business is notably partnering with Mildmay Community Partnership - the charity running the Mildmay Community Centre.",
+                "image": "https://www.sibgroup.org.uk/sites/all/themes/foundation/logo.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.sibgroup.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:17:15.090-07:00",
+                "updated_date": "2020-09-01T01:51:10.466-07:00",
+                "weight": 0,
+                "image_credit": "Social Investment Business"
+            },
+            "id": "ca/social_investment_business#103"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Local Insight ",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Local Insight in a company providing data analysis insights for businesses about their local community. They are a part of the network of stakeholders found in the Mildmay area. ",
+                "image": "https://local.communityinsight.org/media/logo_small_la.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://local.communityinsight.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:53:15.397-07:00",
+                "updated_date": "2020-11-04T00:44:37.446-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/local_insight_#99"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "SGI UK",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "SGI UK is a buddhist organization which organizes events in the Mildmay community centre. ",
+                "image": "data:image/png;base64,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",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://sgi-uk.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:02:31.538-07:00",
+                "updated_date": "2020-09-01T01:49:59.096-07:00",
+                "weight": 0,
+                "image_credit": "SGI UK"
+            },
+            "id": "ca/sgi_uk#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "New Stoke Newington Shul",
+                "type": "Present",
+                "start_date": "2006-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "New Stoke Newington Shul (NSNS) is a Jewish community in the Hackney area. They are under the umbrella of the Masorti movement and have been gathering together since 2007. As of yet, NSNS do not have a building of their own, so they meet in members’ homes for Shabbat and in local community centres like the Mildmay Community Centre for festivals and celebrations. ",
+                "image": "https://i1.wp.com/newstokenewingtonshul.org/wp-content/uploads/2017/08/logo.png?w=337&ssl=1",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://newstokenewingtonshul.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T06:59:31.738-07:00",
+                "updated_date": "2020-09-01T01:49:52.251-07:00",
+                "weight": 0,
+                "image_credit": "New Stoke Newington Shull"
+            },
+            "id": "ca/new_stoke_newington_shul#90"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "New Testament Church of God Holloway Group",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "The New Testament Church of God is a religious charity which organizes events in the Mildmay Community Centre. ",
+                "image": "https://ntcg.org.uk/wp-content/uploads/2016/03/new-testament-church-of-god.png",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://beta.charitycommission.gov.uk/charity-details?regid=250306&subid=0",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://ntcg.org.uk/locations/holloway/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T06:51:42.920-07:00",
+                "updated_date": "2020-09-01T01:49:45.829-07:00",
+                "weight": 0,
+                "image_credit": "New Testament Church of God "
+            },
+            "id": "ca/new_testament_church_of_god_holloway_group#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Highest Praise Prayer Centre",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Highest Praise Prayer Centre is a religious charity organizing events in the Mildmay Community Centre for its community members.",
+                "image": "https://live.staticflickr.com/65535/50565732141_6450475ea2_o_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/Highest-Praise-Prayer-Centre-104575113301698/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T06:43:45.742-07:00",
+                "updated_date": "2020-11-04T01:39:56.273-08:00",
+                "weight": 0,
+                "image_credit": "Highest Praise Prayer Centre Facebook Page"
+            },
+            "id": "ca/highest_praise_prayer_centre#88"
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Islington Giving & Cripplegate Foundation",
+                "type": "Present",
+                "start_date": "1891-01-09T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Cripplegate Foundation is a local charitable foundation which works to achieve better lives for the people of Islington. Islington Giving supports local, grassroots projects to address poverty and inequality in our borough. 13 Elliott's Place, London N1 8HX  https://islingtongiving.org.uk/\nhttps://www.cripplegate.org/",
+                "image": "https://live.staticflickr.com/65535/50513433457_9e4b21d8c7_k_d.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "charity",
+                    "foundation",
+                    "poverty",
+                    "inequality",
+                    "youths",
+                    "isolation",
+                    "families"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-10-21T02:42:10.827-07:00",
+                "updated_date": "2020-10-21T07:50:08.347-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1008,
+                    51.5366
+                ]
+            },
+            "id": "ca/islington_giving_cripplegate_foundation#129"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Islington Boat Club",
+                "type": "Present",
+                "start_date": "1969-12-31T15:00:00.000-08:00",
+                "end_date": "",
+                "description": "Watersports activity & training centre on City Road Basin. Royal Yachting Association and British Canoeing approved. Youth Club Tues/Weds 5pm-7pm & Sats 11pm-4pm Over 50’s Tues 11am-1pm Additional needs club Thurs 5pm-7pm Schools term-time Youth holiday programme Narrowboat trips Adult kayaking SUP All activities bookable in advance.",
+                "image": "https://live.staticflickr.com/65535/50431681591_d47594734e_h_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [
+                    "youths",
+                    "kayaking",
+                    "SUP",
+                    "watersports",
+                    "community",
+                    "narrowboat"
+                ],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.islingtonboatclub.com/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/voluntary_action_islington#100"
+                ],
+                "created_date": "2020-10-07T05:10:03.796-07:00",
+                "updated_date": "2020-10-07T05:19:49.260-07:00",
+                "weight": 0,
+                "image_credit": "Simon King Photography"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0999,
+                    51.5325
+                ]
+            },
+            "id": "ca/islington_boat_club#128"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "North London Cares",
+                "type": "Present",
+                "start_date": "2010-04-30T16:00:00.000-07:00",
+                "end_date": "",
+                "description": " A community network of young professionals and older neighbours hanging out and helping one another in our rapidly changing city. Opening Hours Mon-Fri -9am-5.30pm Tel: 020 7118 3838",
+                "image": "https://live.staticflickr.com/65535/50430980558_e553d2b1da_o_d.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "charity",
+                    "community",
+                    "Connection",
+                    "volunteer",
+                    "Social club",
+                    "Fundraising"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://donate.northlondoncares.org.uk/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/octopus_communities#101",
+                    "ca/voluntary_action_islington#100",
+                    "ca/london_borough_of_islington_townhall_#102"
+                ],
+                "created_date": "2020-10-07T04:49:17.984-07:00",
+                "updated_date": "2020-10-07T05:08:42.222-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143,
+                    51.5404
+                ]
+            },
+            "id": "ca/north_london_cares#127"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Doing the Work",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "[Online Event] Weekly Event. Every Friday 16:00 -17:00 PM beginning 7 August, 2020. This is a programme for white and other privileged people to learn and reflect together about racism. It is deep learning since the vast majority of us were raised in a culture where racism against people of Afro-Caribbean heritage is endemic and because we all play a part in systemic racism. To register: https://us02web.zoom.us/meeting/register/tZcrc-utqzgrH9AOvMZLbB5q-F_Q7JQi64ci. ",
+                "image": "https://live.staticflickr.com/65535/50344908107_0f645fa369_b_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:41:18.009-07:00",
+                "updated_date": "2020-09-15T02:57:26.099-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/doing_the_work#126"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Tales from the Green",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "[Online story telling - Youtube] Weekly Event. Hosted by Emily, our local Storyteller, this storytelling event will celebrate the rich and diverse cultures in Newington Green. Watch and be part of these amazing stories. -brought to you by Newington Green Alliance and the Newington Green MeetingHouse: Revolutionary Ideas project, with funding from the National Heritage Lottery Fund.To Watch: https://www.youtube.com/playlist?list=PLq5kueRJ7GDUBjOgXm89Mntesr8TjXKVM ",
+                "image": "https://live.staticflickr.com/65535/50344061823_890462e7a6_o_d.jpg",
+                "category": "Local stories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Thoughts, memories and experiences of the area",
+                "links": [],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:38:31.670-07:00",
+                "updated_date": "2020-09-15T02:56:53.763-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/tales_from_the_green#125"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "NGA Virtual Youth Group",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "[Online Event] The mission of the Youth Group, targeting youth between ages 14 -17, is to support young people’s development by providing a safe and stimulating communication environment and to help them become compassionate, active and open members of their community and peer group.The virtual sessions will take place weekly for 1 hour via Zoom video-conferencing and include up to 15 participants.Launching 18 September. Find out more: https://www.newingtongreenalliance.org/whats-on.",
+                "image": "https://live.staticflickr.com/65535/50344752526_bb22d0a17c_o_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:36:25.351-07:00",
+                "updated_date": "2020-09-15T02:56:27.954-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/nga_virtual_youth_group#124"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "NGA 1:1 Virtual Youth Mentoring",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "[Online activity] The missionof the one-to-one youth mentoring program, targeting youth between ages 14 -17, is to support young people’s personal development and help them become compassionate, active and open members of their communities. The virtual sessions will take place every two(2) weeks for 1 hour via Zoom video-conferencing and include one young person (mentee) and one adult (mentor). Launching 18th of September 2020 –To find out more: https://www.newingtongreenalliance.org/whats-on.",
+                "image": "https://live.staticflickr.com/65535/50323737971_7e965d5fb6_o_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:27:29.681-07:00",
+                "updated_date": "2020-09-15T02:55:23.729-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/nga_1_1_virtual_youth_mentoring#123"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "English/Turkish Conversation Group",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "[Online Event] Weekly Event every Tuesday 12:30-13:30 PM beginning 23 June, 2020. This is a great opportunity to learn about Turkish language and culture and to fuel the growing sense of community and solidarity in the Newington Green area! To Register: https://us02web.zoom.us/meeting/register/tZMlce-opjkoGt0WjCJHG-Jvj-HbgoSKBm4G. ",
+                "image": "https://www.ngmh.org.uk/wp-content/themes/communitysites_ngmh/images-ngmh/logo.png",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org/whats-on",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:24:55.862-07:00",
+                "updated_date": "2020-11-04T01:04:18.627-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/english_turkish_conversation_group#122"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "What Are They Thinking?",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Event organized by Newington Green Alliance. We invite you to a talking and hearing session of black and white voices--your voices--through a structured exchange of thoughts/experiences. “What Are They Thinking?” is an opportunity to listen actively to the perspectivesof others.",
+                "image": "https://images.squarespace-cdn.com/content/54f1d5d4e4b09389aa3572cc/1512146797274-NBRF2Q78BIQZ2SEZWHP6/Website+Banner.jpg?format=1500w&content-type=image%2Fjpeg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org/whats-on",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/newington_green_alliance#84"
+                ],
+                "created_date": "2020-09-09T08:14:17.270-07:00",
+                "updated_date": "2020-11-04T01:04:58.184-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084938,
+                    51.552183
+                ]
+            },
+            "id": "ca/what_are_they_thinking_#121"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Arsenal Double Club",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Afterschool homework club and football sessions for young people aged 8 to 13 years old. ",
+                "image": "https://www.arsenaldoubleclub.co.uk/wp-content/uploads/2018/05/Arsenal_double_club.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.arsenaldoubleclub.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-14T03:44:18.134-07:00",
+                "updated_date": "2020-09-01T01:53:39.116-07:00",
+                "weight": 0,
+                "image_credit": "Arsenal Double Club "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/arsenal_double_club#120"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Imece Women’s Centre ",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "IMECE Women’s Centre stands against all forms of violence against women and girls. They support and empower Turkish, Kurdish and Cypriot Turkish women and Black, Asian, minority ethnic, refugee (BAMER) and migrant women to improve the quality of their lives. IMECE organizes Yoga sessions in the Mildmay Community Centre. ",
+                "image": "https://imece.org.uk/wp-content/uploads/2014/11/IMECElogo.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://imece.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:37.624-07:00",
+                "updated_date": "2020-09-09T07:53:45.582-07:00",
+                "weight": 0,
+                "image_credit": "IMECE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086898,
+                    51.54672
+                ]
+            },
+            "id": "ca/imece_women_s_centre_#119"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sports and Life Skills",
+                "type": "Present",
+                "start_date": "2015-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Sports and Life Skills is a charity operating in the Mildmay Community Centre. A community-led initiative, it aims to teach and improve life skills of young people through sports. All sessions are free for all, a commitment that is important to Steve, the founder of the organization, and all the volunteers. Sports and Life Skills was created in 2016. ",
+                "image": "https://sportsandlifeskills.files.wordpress.com/2016/08/cropped-cropped-sportsandlifeskills-logo2.jpg?w=685&h=209",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://sportsandlifeskills.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:18.109-07:00",
+                "updated_date": "2020-09-01T01:53:16.372-07:00",
+                "weight": 0,
+                "image_credit": "Sports and Life Skills"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082414,
+                    51.550835
+                ]
+            },
+            "id": "ca/sports_and_life_skills#118"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "African and Caribbean Senior Citizens Association",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "The African and Caribbean Senior Citizens Association organizes weekly events in the Mildmay Community Centre. Do you enjoy the soft sounds of the Caribbean, soul and country music, whilst playing a relaxing but competitive game of dominoes? If so, this is definitely the group for you. You can pop in the centre to meet a dedicated group of people and be sure to enjoy a game of dominoes.",
+                "image": "",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://mildmaycp.org.uk/wp-content/uploads/2020/03/Whats-going-on-at-Your-Community-Centre-2020.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T09:10:46.491-07:00",
+                "updated_date": "2020-11-04T02:09:13.281-08:00",
+                "weight": 0,
+                "image_credit": "Make a difference "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/african_and_caribbean_senior_citizens_association#111"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Library",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Library for the Mildmay Ward.",
+                "image": "https://www.allinlondon.co.uk/images/venues/images_all/10018834.jpg",
+                "category": "Venues",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Spaces to hire or use in the neighbourhood",
+                "links": [
+                    {
+                        "url": "https://www.islington.gov.uk/libraries-arts-and-heritage/libraries/your-local-libraries/mildmay-library",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T09:02:34.581-07:00",
+                "updated_date": "2020-09-01T02:40:48.636-07:00",
+                "weight": 0,
+                "image_credit": "All in London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084332,
+                    51.547102
+                ]
+            },
+            "id": "ca/mildmay_library#110"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Targeted Youth Support",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "Targeted Youth Support (TYS) works with young people aged 10 to 21 years old (12 – 21 for Youth Counselling), who require additional support to enable them to make informed choices and maintain positive pathways.  The team includes specialist Substance Misuse Workers, a Youth Counselling Service and Targeted Youth Support Workers who provide 1:1 support  and group work programmes in community settings and complete  Return Home Interviews for young people reported missing. They are volunteering in the Mildmay Community Centre.",
+                "image": "https://www.platformislington.org.uk/media/1555/tys.jpg?width=960&center=0.5,0.5&mode=crop",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.islingtonscb.org.uk/key-practice-guidance/Pages/Youth-violence-and-gang-prevention-work-in-Islington.aspx",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:55:43.883-07:00",
+                "updated_date": "2020-11-04T00:51:40.104-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082406,
+                    51.550778
+                ]
+            },
+            "id": "ca/targeted_youth_support#109"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "The Good Gym",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "The Good Gym is a charity which organizes sports events in the Mildmay Community Centre. Their mission is to combine ‘getting fit with doing good’: they stop off on their runs to do physical tasks for community organisations and to support isolated older people with social visits and one-off tasks they can't do on their own. It's a great way to get fit, meet new people and do some good. ",
+                "image": "https://d2tfd645274ffx.cloudfront.net/assets/goodgym_red-178ac34164a2541343def8acc693b9dffe9e9819d53d95743c2be779b2041930.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.goodgym.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:50:50.366-07:00",
+                "updated_date": "2020-09-01T01:51:43.994-07:00",
+                "weight": 0,
+                "image_credit": "The Good Gym"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082423,
+                    51.550812
+                ]
+            },
+            "id": "ca/the_good_gym#108"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kingfisher Cafe",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Kingfisher Cafe is a cafe in Dalston, and a funder of Mildmay Community Centre since its rehabilitation in 2006.",
+                "image": "https://b.zmtcdn.com/data/pictures/7/6120567/478b743fd75c1cc1428c2fb835ce0e6c.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.zomato.com/london/kingfisher-cafe-dalston/menu",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:37:05.498-07:00",
+                "updated_date": "2020-09-01T01:51:31.691-07:00",
+                "weight": 0,
+                "image_credit": "Zomato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075576,
+                    51.548497
+                ]
+            },
+            "id": "ca/kingfisher_cafe#106"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mickey's Chip Shop",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Mickey’s Chip Shop is a multi award winning traditional fish and chip shop in the heart of Stoke Newington. Mickey’s Chip Shop is a funder of the Mildmay Community Centre, since its rehabilitation in 2006.",
+                "image": "https://fastly.4sqi.net/img/general/width960/585636_hAK-IkOP0NHtqrtQj-n1XoeDqugRgaBSP8l6GWVgxiE.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/Mickys-Chippy-299872083050/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:34:10.375-07:00",
+                "updated_date": "2020-09-01T01:51:23.382-07:00",
+                "weight": 0,
+                "image_credit": "Fastly"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079073,
+                    51.551549
+                ]
+            },
+            "id": "ca/mickey_s_chip_shop#105"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Belle Epoque Patisserie",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Belle Epoque Patisserie is a French-inspired bakery and cafe located in front of Newington Green. They are funders of the Mildmay Community Centre, since its rehabilitation in 2006.",
+                "image": "https://live.staticflickr.com/65535/50565119028_6d874daa48_b_d.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "http://belleepoque.co.uk/boutiques/newingtongreen",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:28:50.250-07:00",
+                "updated_date": "2020-11-04T01:57:09.764-08:00",
+                "weight": 0,
+                "image_credit": "Belle Epoque http://belleepoque.co.uk/boutiques/newingtongreen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0845,
+                    51.5521
+                ]
+            },
+            "id": "ca/belle_epoque_patisserie#104"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "London Borough of Islington (Townhall)",
+                "type": "Present",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "The London Borough of Islington is one of the stakeholders which contributed to the creation and support of the Mildmay Community Centre.",
+                "image": "https://live.staticflickr.com/65535/50565093998_e3bb015fa7_b_d.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.islington.gov.uk/contact-us/our-offices/islington-town-hall",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T08:11:46.125-07:00",
+                "updated_date": "2020-11-04T01:43:43.195-08:00",
+                "weight": 0,
+                "image_credit": "AlanFord at English Wikipedia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102246,
+                    51.541671
+                ]
+            },
+            "id": "ca/london_borough_of_islington_townhall_#102"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Octopus Communities",
+                "type": "Present",
+                "start_date": "2013-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Octopus Communities is a charity supporting residents to improve their health and wellbeing through grass-roots projects in Islington. Octopus forms many different types of cross-sector, place-based collaborations to improve employment potential of those facing barriers into sustainable employment; engage communities in identifying and improving places and spaces for community use; bringing diverse communities together to collectively improve their health and wellbeing, and supporting people to take a collective approach to neighbourhood improvement.\n\n",
+                "image": "https://www.highgatenewtown.org.uk/wp-content/uploads/2019/01/OCN_Logo-1024x585.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.octopuscommunities.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:59:29.020-07:00",
+                "updated_date": "2020-09-09T07:59:59.836-07:00",
+                "weight": 0,
+                "image_credit": "Octopus Communities "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130538,
+                    51.569154
+                ]
+            },
+            "id": "ca/octopus_communities#101"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Voluntary Action Islington",
+                "type": "Present",
+                "start_date": "2009-10-31T17:00:00.000-07:00",
+                "end_date": "",
+                "description": "Voluntary Action Islington is a charity which provides information, training and support to volunteers, staff and trustees within the voluntary and community sector in Islington. They are the accredited Volunteer Centre for Islington. They support the Islington Community Network and influence the development of the voluntary sector in the borough.\n\n",
+                "image": "https://www.mvsc.co.uk/sites/mertonconnected.com/files/VAI-LOGO-BLOCKED-LONG.jpg.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://vai.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:56:08.017-07:00",
+                "updated_date": "2020-09-01T01:50:50.595-07:00",
+                "weight": 0,
+                "image_credit": "MVSC "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117513,
+                    51.53124
+                ]
+            },
+            "id": "ca/voluntary_action_islington#100"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hackney CVS",
+                "type": "Present",
+                "start_date": "1997-04-30T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Hackney CVS is a charity focused on tackling inequalities in Hackney, working with community groups, charities and voluntary organisations to help local residents. Hackney CVS does this in different ways: they provide advice and training and they also act as a bridge between the public sector and local community groups, allowing them to influence how the public sector does its work. Hackney CVS is a part of the network of stakeholders found in the Mildmay area.",
+                "image": "https://hcvs.org.uk/wp-content/themes/hcvs/build/imgs/logo--main.svg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "charity",
+                    "collective",
+                    "Social inclusion",
+                    "platform",
+                    "youths"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://hcvs.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:46:05.701-07:00",
+                "updated_date": "2020-09-01T01:50:35.861-07:00",
+                "weight": 0,
+                "image_credit": "Hackney CVS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072854,
+                    51.546058
+                ]
+            },
+            "id": "ca/hackney_cvs#98"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Islington Childcare Trust",
+                "type": "Present",
+                "start_date": "",
+                "end_date": "",
+                "description": "The Islington Childcare Trust (ICT) is committed to the provision of high quality childcare across the borough of Islington. The ICT is a licensee in the Mildmay community centre.",
+                "image": "http://islingtonchildcaretrust.org.uk/images/islingtonchildcaretrust.gif",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "http://islingtonchildcaretrust.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:15:48.820-07:00",
+                "updated_date": "2020-11-05T02:32:13.693-08:00",
+                "weight": 0,
+                "image_credit": "The Islington Childcare Trust"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082418,
+                    51.550832
+                ]
+            },
+            "id": "ca/islington_childcare_trust#96"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Room to Heal",
+                "type": "Present",
+                "start_date": "2006-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Room to Heal is a charity which offers support and refuge to people who have had to flee persecution, torture and indefinite detention. Room to Heal has its office in the Mildmay Community Centre and uses the centre’s garden for various kinds of therapeutic activities. ",
+                "image": "https://images.justgiving.com/image/38ee0c09-ab97-41ed-8581-bcfdea9a0fa1.jpg?template=size200x200",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "Social inclusion"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.roomtoheal.org/about/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:12:09.025-07:00",
+                "updated_date": "2020-09-01T01:50:21.622-07:00",
+                "weight": 0,
+                "image_credit": "Just Giving "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082418,
+                    51.550832
+                ]
+            },
+            "id": "ca/room_to_heal#94"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Creative Opportunities",
+                "type": "Present",
+                "start_date": "2013-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Creative Opportunities is a social enterprise that facilitates and encourages creativity amongst young Londoners, supporting them to develop skills, make connections and lead change. Founded in January 2014, we work to reduce isolation, poverty and inequality by increasing the social skills, sense of community and employability of our young members.",
+                "image": "https://creativeopportunities.s3.amazonaws.com/images/creativeopps.original.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "art",
+                    "youths",
+                    "culture",
+                    "platform",
+                    "Social inclusion",
+                    "collective",
+                    "music",
+                    "Events"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://creativeopportunities.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:09:46.967-07:00",
+                "updated_date": "2020-11-05T02:25:56.352-08:00",
+                "weight": 0,
+                "image_credit": "Creative Opportunities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082418,
+                    51.550832
+                ]
+            },
+            "id": "ca/creative_opportunities#93"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "London Gypsies and Travellers",
+                "type": "Present",
+                "start_date": "2017-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "London Gypsies and Travellers (LGT) is a charity aiming to support Gipsies and Travellers living in London as they seek to gain greater control over their lives, more influence on the decisions that affect them, more opportunities and an end to the discrimination they experience every day. LGT has its office in the Mildmay Community Centre since 2018. ",
+                "image": "https://live.staticflickr.com/65535/50565738661_4cf88ef566_o_d.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "Social inclusion",
+                    "collective",
+                    "charity"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "http://www.londongypsiesandtravellers.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T07:06:36.990-07:00",
+                "updated_date": "2020-11-04T01:38:10.941-08:00",
+                "weight": 0,
+                "image_credit": "London Gypsies and Travellers Facebook Page"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082418,
+                    51.550832
+                ]
+            },
+            "id": "ca/london_gypsies_and_travellers#92"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "The Army & Navy pub",
+                "type": "Present",
+                "start_date": "1872-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "The Army & Navy Pub is a historical pub located in the Mildmay ward of Islington. A funder and current partner of the Mildmay Community Centre, the pub has been around for more than a century, the first photograph of the pub dating from the 1930s. Today, the Army & Navy Pub are still donating to the Mildmay Community Centre. Recently, they participated to food donations happening in the centre as a response to the COVID19 pandemic.",
+                "image": "https://whatpub.com/img/NLD/5793/army-navy-stoke-newington/298/224/78062",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://pubwiki.co.uk/LondonPubs/StokeNewington/ArmyNavy.shtml",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://whatpub.com/pubs/NLD/5793/army-navy-stoke-newington",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T06:40:10.997-07:00",
+                "updated_date": "2020-09-01T01:49:27.170-07:00",
+                "weight": 0,
+                "image_credit": "Whatpub.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079833,
+                    51.551666
+                ]
+            },
+            "id": "ca/the_army_navy_pub#87"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Lady Mildmay Pub",
+                "type": "Present",
+                "start_date": "2010-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Lady Mildmay is one of the nearest pub you can find around the Mildmay Community Centre.  Refurbished in 2011, its direction changed a few times up until today. In 2015, the pub underwent a second re-decoration and a last ownership change. ",
+                "image": "https://media.timeout.com/images/103538493/750/422/image.jpg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "collective"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.ladymildmay.com",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T06:38:34.937-07:00",
+                "updated_date": "2020-09-01T01:49:17.405-07:00",
+                "weight": 0,
+                "image_credit": "Time Out "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084537,
+                    51.550682
+                ]
+            },
+            "id": "ca/lady_mildmay_pub#86"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Newington Green Action Group",
+                "type": "Present",
+                "start_date": "1978-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Newington Green Action Group was formed in 1979 with the aim of regenerating the green in Newington and its surroundings. The group is operated by volunteers only. They organize a number of events and actions around the green. ",
+                "image": "https://images.squarespace-cdn.com/content/5a5629ddfe54ef29673f9f9a/1585590316968-VB6CN4H1UNB4529XHJA1/NewingtonActionGroupFlyerHeader_01.jpg?format=1500w&content-type=image%2Fjpeg",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://newingtongreen.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T03:43:25.693-07:00",
+                "updated_date": "2020-09-01T01:49:07.340-07:00",
+                "weight": 0,
+                "image_credit": "Square Space"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084919,
+                    51.552193
+                ]
+            },
+            "id": "ca/newington_green_action_group#85"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Newington Green Alliance",
+                "type": "Present",
+                "start_date": "1999-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Newington Green Alliance is a registered charity aiming at strenghtening community bonds in the area of Mildmay. They were founded by a group of institutions and organizations in the area, and have been operating around Newington Green for more than 20 years. They are partners with Mildmay Community Partnership, the organization running the Mildmay Community centre.",
+                "image": "https://images.squarespace-cdn.com/content/5baa833b840b16e63d6d0d03/1538416856719-YY0KB2DZFR71TETRT9DO/NGA+Logo+%28Transparent+Background%29.png?content-type=image%2Fpng",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/doing_the_work#126",
+                    "ca/tales_from_the_green#125",
+                    "ca/nga_virtual_youth_group#124",
+                    "ca/nga_1_1_virtual_youth_mentoring#123",
+                    "ca/english_turkish_conversation_group#122",
+                    "ca/what_are_they_thinking_#121"
+                ],
+                "created_date": "2020-07-13T03:35:49.808-07:00",
+                "updated_date": "2020-09-15T04:36:10.778-07:00",
+                "weight": 0,
+                "image_credit": "Newington Green Alliance, SquareSpace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084903,
+                    51.552203
+                ]
+            },
+            "id": "ca/newington_green_alliance#84"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Community Centre",
+                "type": "Present",
+                "start_date": "1969-12-31T15:00:00.000-08:00",
+                "end_date": "",
+                "description": "Mildmay Community Centre is committed to working in partnership with local people by providing a hub of activities where everyone can feel welcome and safe to come together, build friendships, learn new skills and reduce feelings of isolation. Originally built around 1890, the place served as an electricity generating station for the North London tram network. Abandoned in the course of the XXst century, it was converted into a community centre, named the Mayville Community Centre back then, by residents of the Mayville Estate in the 1970s. In 2004, Mildmay Community Partnership took over the responsibility and management of the centre. Closed for a few years for renovation, the centre re-opened in 2011, as the first Passive House (an energy-efficient building) of the UK. Today, it hosts many charities and events organized for and with local residents of the Mildmay area. ",
+                "image": "https://www.openplay.co.uk/uploads/1704_54748f3e284f1-500x_.jpg",
+                "category": "Venues",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "youths",
+                    "architecture",
+                    "office",
+                    "workspace",
+                    "commons",
+                    "Social inclusion",
+                    "gardening",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "charity"
+                ],
+                "category-description": "Spaces to hire or use in the neighbourhood",
+                "links": [
+                    {
+                        "url": "https://mildmaycp.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mildmay_community_centre_interior#73",
+                    "",
+                    "ca/second_floor_view_feb_2020#75",
+                    "ca/mapping_for_change_team_meeting_the_mayor#77",
+                    "ca/community_garden_at_mildmay_community_centre#78",
+                    "ca/celebrating_community_centre_week#79"
+                ],
+                "created_date": "2020-07-07T08:53:55.274-07:00",
+                "updated_date": "2020-09-01T01:47:13.027-07:00",
+                "weight": 0,
+                "image_credit": "OpenPlay"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.082537,
+                            51.55092
+                        ],
+                        [
+                            -0.082722,
+                            51.550648
+                        ],
+                        [
+                            -0.082379,
+                            51.550567
+                        ],
+                        [
+                            -0.082228,
+                            51.550843
+                        ],
+                        [
+                            -0.082537,
+                            51.55092
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/mildmay_community_centre#83"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mapping for Change",
+                "type": "Present",
+                "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Mapping for Change is a social entreprise which offers a range of participatory mapping services to empower individuals, authorities and companies who are willing to understand, improve and produce information about the places that matter to them. They have their office in the Mildmay Community Centre. ",
+                "image": "https://mappingforchange.org.uk/wp-content/themes/mfc-caesitas/img/logos/mfc-big.png",
+                "category": "Local Organisations and Businesses",
+                "sub-category": "",
+                "tags": [
+                    "Social inclusion",
+                    "platform",
+                    "digital ",
+                    "office"
+                ],
+                "category-description": "Who works in the area?",
+                "links": [
+                    {
+                        "url": "https://mappingforchange.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mapping_for_change_team_meeting_the_mayor#77"
+                ],
+                "created_date": "2020-07-06T07:49:07.377-07:00",
+                "updated_date": "2020-11-04T01:38:41.467-08:00",
+                "weight": 0,
+                "image_credit": "Mapping for Change"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/mapping_for_change#82"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "N1 Inflatables at Mildmay",
+                "type": "History",
+                "start_date": "2019-02-28T16:00:00.000-08:00",
+                "end_date": "2019-05-30T16:00:00.000-07:00",
+                "description": "Inflatable fun for kids at the Mildmay Community Centre",
+                "image": "https://live.staticflickr.com/65535/49724176472_d6ac001f73_o_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [
+                    "youths",
+                    "Social inclusion",
+                    "Public space",
+                    "charity"
+                ],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T08:05:15.921-07:00",
+                "updated_date": "2020-09-01T01:48:34.555-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0824,
+                    51.5508
+                ]
+            },
+            "id": "ca/n1_inflatables_at_mildmay#80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Celebrating Community Centre Week",
+                "type": "History",
+                "start_date": "2019-06-30T16:00:00.000-07:00",
+                "end_date": "2019-07-30T16:00:00.000-07:00",
+                "description": "An afternoon tea provided by volunteers for the local residents to celebrate Community Centre Week 2019",
+                "image": "https://live.staticflickr.com/65535/49723316148_d4182ec666_o_d.jpg",
+                "category": "Local stories",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "Events",
+                    "Social inclusion",
+                    "charity"
+                ],
+                "category-description": "Thoughts, memories and experiences of the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T07:35:51.564-07:00",
+                "updated_date": "2020-09-01T01:48:26.104-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825,
+                    51.5508
+                ]
+            },
+            "id": "ca/celebrating_community_centre_week#79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Community Garden at Mildmay Community Centre",
+                "type": "Present",
+                "start_date": "2019-05-30T16:00:00.000-07:00",
+                "end_date": "2019-05-30T16:00:00.000-07:00",
+                "description": "Early summer in the community garden of the Mildmay Community Centre",
+                "image": "https://live.staticflickr.com/65535/49723330898_fe2fa9218e_o_d.jpg",
+                "category": "Venues",
+                "sub-category": "",
+                "tags": [
+                    "gardening",
+                    "Public space",
+                    "Social inclusion",
+                    "workspace"
+                ],
+                "category-description": "Spaces to hire or use in the neighbourhood",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T07:21:30.608-07:00",
+                "updated_date": "2020-09-01T01:48:18.650-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825,
+                    51.551
+                ]
+            },
+            "id": "ca/community_garden_at_mildmay_community_centre#78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mapping for Change team meeting the mayor",
+                "type": "History",
+                "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "2017-07-30T16:00:00.000-07:00",
+                "description": "An event to celebrate The Great Get Together in memory of Jo Cox",
+                "image": "https://live.staticflickr.com/65535/49724162122_49baf25c96_o_d.jpg",
+                "category": "Local stories",
+                "sub-category": "",
+                "tags": [
+                    "Events"
+                ],
+                "category-description": "Thoughts, memories and experiences of the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T07:13:46.253-07:00",
+                "updated_date": "2020-09-01T01:48:08.414-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0824,
+                    51.5508
+                ]
+            },
+            "id": "ca/mapping_for_change_team_meeting_the_mayor#77"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Second floor view Feb 2020",
+                "type": "History",
+                "start_date": "2020-02-19T16:00:00.000-08:00",
+                "end_date": "2020-02-25T16:00:00.000-08:00",
+                "description": "Recreating 1980s photo from second floor balcony overlooking the playground",
+                "image": "https://live.staticflickr.com/65535/49588612352_7ae2d2f125_b_d.jpg",
+                "category": "Local stories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Thoughts, memories and experiences of the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-26T08:43:00.313-08:00",
+                "updated_date": "2020-09-09T07:46:23.918-07:00",
+                "weight": 0,
+                "image_credit": "Carla Mildmay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0821,
+                    51.5514
+                ]
+            },
+            "id": "ca/second_floor_view_feb_2020#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Community Centre Interior",
+                "type": "Present",
+                "start_date": "2013-08-23T16:00:00.000-07:00",
+                "end_date": "2020-02-25T16:00:00.000-08:00",
+                "description": "Photo of the interior of Mildmay Community Centre in 2013 having recently been retrobuilt as a Passive House",
+                "image": "https://live.staticflickr.com/3742/9716569453_904644b667_b_d.jpg",
+                "category": "Venues",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Spaces to hire or use in the neighbourhood",
+                "links": [],
+                "relationships": [
+                    "ca/mildmay_community_centre_interior#73"
+                ],
+                "created_date": "2020-02-26T07:33:46.063-08:00",
+                "updated_date": "2020-09-09T07:41:49.734-07:00",
+                "weight": 0,
+                "image_credit": "CEisenhart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825,
+                    51.5508
+                ]
+            },
+            "id": "ca/mildmay_community_centre_interior#73"
+        }
+    ],
+    "properties": {
+        "title": "Mildmay Community",
+        "url": "https://mildmay.community-atlas.net",
+        "id": "mildmay",
+        "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
+        "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
+        "published": "2020-11-12T07:37:00.214Z",
+        "links": [
+            {
+                "title": "The Comensi project",
+                "url": "http://community-atlas.net",
+                "description": "The Comensi Project homepage",
+                "lang": "en",
+                "type": "homepage"
+            }
+        ],
+        "version": 94,
+        "taxonomy": [
+            {
+                "category": "Services",
+                "description": "Services available in Mildmay and Newington Green ",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Neighbours",
+                "description": "Who are your neighbours?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Local Organisations and Businesses",
+                "description": "Who works in the area?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Activities and events",
+                "description": "What’s on in Mildmay and Newington Green?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Local stories",
+                "description": "Thoughts, memories and experiences of the area",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 2
+            },
+            {
+                "category": "Venues",
+                "description": "Spaces to hire or use in the neighbourhood",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 1
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "from": "ca/islington_boat_club#128",
+            "to": "ca/voluntary_action_islington#100"
+        },
+        {
+            "from": "ca/north_london_cares#127",
+            "to": "ca/octopus_communities#101"
+        },
+        {
+            "from": "ca/north_london_cares#127",
+            "to": "ca/voluntary_action_islington#100"
+        },
+        {
+            "from": "ca/north_london_cares#127",
+            "to": "ca/london_borough_of_islington_townhall_#102"
+        },
+        {
+            "from": "ca/doing_the_work#126",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/tales_from_the_green#125",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/nga_virtual_youth_group#124",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/nga_1_1_virtual_youth_mentoring#123",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/english_turkish_conversation_group#122",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/what_are_they_thinking_#121",
+            "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/zumba#116",
+            "to": "ca/mildmay_community_centre#83"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/doing_the_work#126"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/tales_from_the_green#125"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/nga_virtual_youth_group#124"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/nga_1_1_virtual_youth_mentoring#123"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/english_turkish_conversation_group#122"
+        },
+        {
+            "from": "ca/newington_green_alliance#84",
+            "to": "ca/what_are_they_thinking_#121"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/mildmay_community_centre_interior#73"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": ""
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/second_floor_view_feb_2020#75"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/mapping_for_change_team_meeting_the_mayor#77"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/community_garden_at_mildmay_community_centre#78"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/celebrating_community_centre_week#79"
+        },
+        {
+            "from": "ca/mapping_for_change#82",
+            "to": "ca/mapping_for_change_team_meeting_the_mayor#77"
+        },
+        {
+            "from": "ca/mildmay_community_centre_interior#73",
+            "to": "ca/mildmay_community_centre_interior#73"
+        }
+    ]
+}
